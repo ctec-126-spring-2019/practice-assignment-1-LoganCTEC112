@@ -1,0 +1,1 @@
+window.alert("This page may contain sensitive data.")
